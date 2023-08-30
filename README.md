@@ -8,6 +8,7 @@ The library system can be accessed by running the file: LibrarySystem.py
 The library database is an sqlite database stored in the file: librarydb.sqlite
 
 The database can be edited from the file: databaseSetup.py (however, it is already setup so you do not need to run this file before running LibrarySystem.py)
+- python LibrarySystem.py
 
 I have already added two users to the database, the login details are:
 
