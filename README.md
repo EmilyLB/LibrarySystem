@@ -3,12 +3,13 @@ Viable Data technical test.
 Using Python 3.11.4
 
 The library system can be accessed by running the file: LibrarySystem.py
+- python LibrarySystem.py
 - You can interact with the library system via the command line.
 
 The library database is an sqlite database stored in the file: librarydb.sqlite
 
 The database can be edited from the file: databaseSetup.py (however, it is already setup so you do not need to run this file before running LibrarySystem.py)
-- python LibrarySystem.py
+
 
 I have already added two users to the database, the login details are:
 
