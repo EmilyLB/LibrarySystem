@@ -21,5 +21,7 @@ User2
 
 These users have books on loan allowing you to see that functionality working. You can add new users as well, at the start of the program.
 
+For displaying the pictures of the books I used matplotlib. To view each available image, you will need to close the current image window that pops up.
+
 
 
