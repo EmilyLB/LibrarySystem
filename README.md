@@ -17,7 +17,7 @@ User1
 
 User2
 - Username: np@address.com
-- Password:abc
+- Password: abc
 
 These users have books on loan allowing you to see that functionality working. You can add new users as well, at the start of the program.
 
